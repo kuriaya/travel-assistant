@@ -2,7 +2,6 @@
 import streamlit as st
 import pandas as pd
 import openai
-import secret_keys  # 外部ファイルにAPI keyを保存
 
 from PIL import Image
 
